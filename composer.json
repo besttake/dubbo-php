@@ -1,5 +1,5 @@
 {
-  "name": “lvmama/idiot",
+  "name": "lvmama/idiot",
   "description": "PHP Dubbo Client in Zookeeper",
   "keywords": ["dubbo", "zookeeper"],
   "type": "library",
